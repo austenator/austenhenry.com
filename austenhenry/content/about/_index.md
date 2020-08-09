@@ -1,6 +1,6 @@
 ---
 title: Software-developer. Minimalist. Plant-based Eater. Runner. Rock Climber. Over-thinker.
-image: images/author.jpg
+image: "/images/2159a2ec-0ae5-487b-83ba-fbb7bb9394a3.jpeg"
 description: ''
 
 ---
