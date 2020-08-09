@@ -26,4 +26,5 @@ fields:
   name: tags
   label: tags
 pages:
+- austenhenry/content/post/hello-world-2.md
 - austenhenry/content/post/hello-world.md
