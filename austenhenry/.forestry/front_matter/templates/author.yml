@@ -21,3 +21,5 @@ fields:
   - type: text
     name: link
     label: link
+pages:
+- austenhenry/content/author/austen-henry.md
